@@ -1,5 +1,5 @@
 # Multiple-Linear-Regression
-## Prediction of Car Price 
+## Prediction of Car-Price 
 #### Choosen a dataset from kaggle and done the data cleaning as the first method.
 #### Implemented the data visualization methods using python libraries such as pandas,numpy and etc.
 #### Also done the feature selction and feature extracting methods
